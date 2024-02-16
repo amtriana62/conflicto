@@ -1,0 +1,2 @@
+Texto
+Este sera el conflicto desde local
