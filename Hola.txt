@@ -1,2 +1,2 @@
 Texto
-Este sera el conflicto desde local
+Este sera el conflicto desde la nube
